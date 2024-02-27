@@ -1,5 +1,5 @@
 # Description for the project
-This project is just a training for the some React properties.
+This project is just a training for the some React properties. The "CEP" is the Brazilian registry that identifies all address details for postal shipments.
 
 # Getting Started with Create React App
 
